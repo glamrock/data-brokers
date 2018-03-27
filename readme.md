@@ -15,6 +15,11 @@ When you look at the list of data brokers, it's easy to get overwhelmed. If you 
 **Privacy reminder**: other than credit reporting agencies such as Equifax, no one should ask for your social security number or tax ID while opting out. When sending a copy of your ID, mark out the ID number and draw a line across the photo.
 
 ---
+
+### This should be an app!
+I agree -- people keep flaking out on making it, so I'm likely to just makeit myself at some point. If you're interested in making the app and *won't* put it on the back-burner for years, sent me an email.
+
+---
 **Contact**: Griffin Boyce - gboyce@cyber.harvard.edu <br />
 **License**: Public Domain. Spread this info!
 
