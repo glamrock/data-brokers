@@ -468,6 +468,15 @@ Direct mail marketer.
 calling people who are on the list is a violation of FTC rules. As of 2016,
 reported violations have generated $74M in penalties.
 
+---
+
+### License
+Public domain, [CC0](https://creativecommons.org/publicdomain/zero/1.0/). Spread this info!
+
+### Contact
+Please send updates to Griffin Boyce: gboyce@cyber.harvard.edu
+
+
 ```
 ## END OF TRANSMISSION ##
 ```
