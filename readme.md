@@ -12,7 +12,7 @@ See also:
 
 ---
 
-I've compiled a list of data aggregators, data brokers, direct marketing firms, and others who trade personal data. Many of these are very quickly dealt with via web forms, but others require a letter and a copy of a photo ID. Many of the data brokers came from my notes, but others have come from discussions with other researchers and anti-data mining projects like [stopdatamining.me](https://www.stopdatamining.me). All sources were fairly out of date, so I've gone through and listed the current contact info and process for each. Feel free to pass it along and let me know if there are any errors or omissions. ^–^
+I've compiled a list of data aggregators, data brokers, direct marketing firms, and others who trade personal data. Many of these are very quickly dealt with via web forms, but others require a letter and a copy of a photo ID. Many of the data brokers came from my notes, but others have come from discussions with other researchers and anti-data mining projects like [stopdatamining.me](https://www.stopdatamining.me). All sources were fairly out of date, so I've gone through and listed the current contact info and process for each. Feel free to pass it along and let me know if there are any errors or omissions. ^_^
 
 When you look at the list of data brokers, it’s easy to get overwhelmed. If you only have a little time to spend on this, I recommend:
 
@@ -25,7 +25,8 @@ When you look at the list of data brokers, it’s easy to get overwhelmed. If yo
 ---
 
 ### This should be an app!
-I agree -- people keep flaking out on making it, so I’m likely to just make it myself at some point. If you’re interested in making the app and *won’t* put it on the back-burner for years, sent me an email.
+I'm currently working on an app that will guide people through the process, taking into account how much time they have to spend on it. While I wish it were possible to automate the opt-out process, most (all?) of these data broker sites have bot-detection, which makes automation impossible.  The goal is to make it as easy as possible, and ideally reduce the time required to be as little as possible. 
+
 
 ---
 
