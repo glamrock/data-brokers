@@ -78,6 +78,11 @@ theft.
 
 # Data Brokers
 
+## [Palantir](https://www.palantir.com/privacy-and-security/)
+Palantir does a LOT of data, from government spying to more ostensibly helpful things...
+- [Privacy policy](https://www.palantir.com/privacy-and-security/)
+- [CCPA Form](https://www.palantir.com/privacy-and-security/data-request) you can also email, but you should look at the privacy policy for specific instructions.
+
 ## [Spokeo.com](http://www.spokeo.com/opt_out/new)
 Find your profiles, and submit them via the web form. They will
 be removed within a few days.
@@ -473,8 +478,8 @@ reported violations have generated $74M in penalties.
 ### License
 Public domain, [CC0](https://creativecommons.org/publicdomain/zero/1.0/). Spread this info!
 
-### Contact
-Please send updates to Griffin Boyce: gboyce@cyber.harvard.edu
+### Contribute
+If you can, please submit a pull request.  If not, please file an issue.
 
 
 ```
