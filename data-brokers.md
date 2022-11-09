@@ -284,6 +284,11 @@ Scumbags.
  - There's a bunch of different options in here that vary from 'see what we have' to 'delete my data' but it's ambiguous as to how much they'll honor for non CCPA/GDPR folk
  - [CCPA Delete](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/dd119353-8970-4dbf-ac1d-b6406173c7bb)
 
+### [Deep Root Analytics](https://www.deeprootanalytics.com/)
+- [Privacy Policy](https://www.deeprootanalytics.com/privacy/)
+- [CCPA Info](https://www.deeprootanalytics.com/ccpa/)
+- [CCPA Requests](https://www.deeprootanalytics.com/ccpa-requests/)
+
 ### [Epsilon Data Management, LLC](https://www.epsilon.com)
 - [Opt Out](https://legal.epsilon.com/dsr/)
 - Deprecated:
