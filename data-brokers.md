@@ -355,6 +355,11 @@ Explicity mentions CCPA and Nevada in the delete options.
 - [Privacy Policy](https://www.aristotle.com/privacy/)
 - [CA/NV Do Not Sell](https://www.aristotle.com/privacy/do-not-sell-my-personal-info/)
 
+### [Catalist](https://catalist.us/)
+Progressive political campaign data 
+- [Privacy Policy](https://catalist.us/privacy-policy/)
+- CCPA covered folks must email to legalteam@catalist.us
+
 ### [The Data Trust](https://thedatatrust.com/)
 Republican and Conservative campaign voter and electoral data focus
 - [Privacy Policy](https://thedatatrust.com/privacy-policy/)
