@@ -8,8 +8,35 @@ See also:
 
 * [Yael Grauer’s comprehensive opt-out list via Motherboard](https://motherboard.vice.com/en_us/article/ne9b3z/how-to-get-off-data-broker-and-people-search-sites-pipl-spokeo)
 * [PrivacyDuck’s comprehensive opt-out list](https://www.privacyduck.com/resources/)
-* [Report FTC violations](https://www.ftccomplaintassistant.gov/?utm_source=takeaction#crnt&panel1-1)
+* [Report FTC violations](https://consumercomplaints.fcc.gov/)
+* Open Secrets report on [Data Brokers in an Open Society](https://www.opensocietyfoundations.org/publications/data-brokers-open-society)
 
+---
+
+## Actions for US Residents
+
+### Text Spam
+
+[FCC Regulations on Campaign messaging](https://www.fcc.gov/rules-political-campaign-calls-and-texts)
+
+#### Report Text Spam
+* copy the text and forward it to 7726 (SPAM)
+* File a complaint with the FCC [here](https://consumercomplaints.fcc.gov/)
+* you can also try responding and asking where they got your number in case it's a new DB, but that doesn't go very far in my experience.
+
+### Legislation
+
+#### Call your US House and Senate Reps
+
+A bill that would have a CCPA effect nationally was introduced in the 117th Congress but hasn't gone anywhere.  
+* [Find your representatives](https://www.congress.gov/members/find-your-member)
+* ask that they support the Senate's [DELETE Act](https://www.congress.gov/bill/117th-congress/senate-bill/3627) and/or the [House's version](https://www.congress.gov/bill/117th-congress/house-bill/6752)
+
+#### Call your State Reps
+
+* Find out if your state has introduced any CCPA-like legislation [here](https://iapp.org/resources/article/us-state-privacy-legislation-tracker/)
+* Find your legislators [here](https://openstates.org/find_your_legislator/)
+* Contact them and ask that they pass bills if they were already introduced, or send them CCPA and ask them to sponsor/introduce it.
 ---
 
 I've compiled a list of data aggregators, data brokers, direct marketing firms, and others who trade personal data. Many of these are very quickly dealt with via web forms, but others require a letter and a copy of a photo ID. Many of the data brokers came from my notes, but others have come from discussions with other researchers and anti-data mining projects like [stopdatamining.me](https://www.stopdatamining.me). All sources were fairly out of date, so I've gone through and listed the current contact info and process for each. Feel free to pass it along and let me know if there are any errors or omissions. ^_^
