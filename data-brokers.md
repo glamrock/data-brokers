@@ -409,6 +409,15 @@ If you get a lot of junk mail, opting out of these will help a bit.
 These databases are also frequently traded, so if you’re trying to keep
 your home address off the internet, it can be a good idea to opt-out.
 
+## [Berlardi Wong](https://belardiwong.com)
+- [Privacy Policy](https://belardiwong.com/privacy-policy/)
+ - There's a bunch of different options in here that vary from 'see what we have' to 'delete my data' but it's ambiguous as to how much they'll honor for non CCPA/GDPR folk
+ - [CCPA Delete](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/dd119353-8970-4dbf-ac1d-b6406173c7bb)
+
+## [Cox Target Media (Valpak coupons)](https://www.valpak.com/coupons/show/mailinglistsuppression)
+Fill in address to be removed from mailing lists.
+ - **Opt-out by**: Website 🖥
+
 ## [Direct Marketing Association (DMA)](https://dmachoice.thedma.org/register.php)
 Many companies use this database to automatically remove people
 who don’t want to receive flyers, etc.
@@ -427,10 +436,6 @@ acts as sort of credit report for business-to-business lending/services.
     - EU
       - customerhelp@dnb.co.uk
       - EUDPO@dnb.com
-
-## [Cox Target Media (Valpak coupons)](https://www.valpak.com/coupons/show/mailinglistsuppression)
-Fill in address to be removed from mailing lists.
- - **Opt-out by**: Website 🖥
 
 ## [Infogroup Inc.](https://www.infousa.com/infogroup-consumer-choice-and-resource-center/)
 You must provide a copy of your ID and a letter with your name,
