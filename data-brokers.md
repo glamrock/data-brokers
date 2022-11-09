@@ -355,6 +355,13 @@ Explicity mentions CCPA and Nevada in the delete options.
 - [Privacy Policy](https://www.aristotle.com/privacy/)
 - [CA/NV Do Not Sell](https://www.aristotle.com/privacy/do-not-sell-my-personal-info/)
 
+### [Blue Action](https://blueaction.io/)
+Democratic party campaign data
+- [Privacy Policy](https://blueaction.io/?page_id=3)
+- CCPA requests (see privacy policy for instructions)
+ - by mail: Head of Privacy and Data, Blue Action Inc., 4209 Dandridge Ter., Alexandria, VA 22309
+ - by email: blueaction@privacyrun.com
+
 ### [Catalist](https://catalist.us/)
 Progressive political campaign data 
 - [Privacy Policy](https://catalist.us/privacy-policy/)
