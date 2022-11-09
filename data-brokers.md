@@ -279,6 +279,11 @@ Scumbags.
 - **Email**: consumeradvo@acxiom.com (inquiries)
 - **Phone**: 1-877-774-2094
 
+### [Berlardi Wong](https://belardiwong.com)
+- [Privacy Policy](https://belardiwong.com/privacy-policy/)
+ - There's a bunch of different options in here that vary from 'see what we have' to 'delete my data' but it's ambiguous as to how much they'll honor for non CCPA/GDPR folk
+ - [CCPA Delete](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/dd119353-8970-4dbf-ac1d-b6406173c7bb)
+
 ### [Epsilon Data Management, LLC](https://www.epsilon.com)
 - [Opt Out](https://legal.epsilon.com/dsr/)
 - Deprecated:
@@ -339,6 +344,10 @@ Palantir does a LOT of data, from government spying to more ostensibly helpful t
 - **Notes**: Include a copy of your ID with your request.
 - **Fax**: 1-425-974-6194
 
+### [Zeta Global](https://zetaglobal.com/)
+- [Privacy Policy](https://zetaglobal.com/privacy-policy)
+- [Do not sell info](https://zetaglobal.com/do-not-sell-my-info/)
+
 ## Political Campaigns
 
 ### [L2 Data](https://l2-data.com/)
@@ -398,17 +407,11 @@ copy of photo ID.
   Burlington, MA 01803
   ```
 
-
 # Direct Marketers
 
 If you get a lot of junk mail, opting out of these will help a bit.
 These databases are also frequently traded, so if you’re trying to keep
 your home address off the internet, it can be a good idea to opt-out.
-
-## [Berlardi Wong](https://belardiwong.com)
-- [Privacy Policy](https://belardiwong.com/privacy-policy/)
- - There's a bunch of different options in here that vary from 'see what we have' to 'delete my data' but it's ambiguous as to how much they'll honor for non CCPA/GDPR folk
- - [CCPA Delete](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/dd119353-8970-4dbf-ac1d-b6406173c7bb)
 
 ## [Cox Target Media (Valpak coupons)](https://www.valpak.com/coupons/show/mailinglistsuppression)
 Fill in address to be removed from mailing lists.
