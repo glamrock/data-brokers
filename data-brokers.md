@@ -350,6 +350,11 @@ Palantir does a LOT of data, from government spying to more ostensibly helpful t
 
 ## Political Campaigns
 
+### [Aristotle](https://www.aristotle.com/)
+Explicity mentions CCPA and Nevada in the delete options.
+- [Privacy Policy](https://www.aristotle.com/privacy/)
+- [CA/NV Do Not Sell](https://www.aristotle.com/privacy/do-not-sell-my-personal-info/)
+
 ### [L2 Data](https://l2-data.com/)
 They don't explicitly say they will only honor CCPA requests, so your mileage may vary.
 - [Opt Out](https://l2-data.com/opt-out)
