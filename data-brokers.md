@@ -368,8 +368,9 @@ They don't explicitly say they will only honor CCPA requests, so your mileage ma
 
 ### [M+R](https://www.mrss.com/)
 Possible more altruistic, but still sells data.
-- [CCPA opt out](https://docs.google.com/forms/d/e/1FAIpQLSefr7ccty1bMZza8chUgLe0eWktBpQ_wGhzFpzeUupGlna3CA/viewform)
+- [Opt out](https://docs.google.com/forms/d/e/1FAIpQLSefr7ccty1bMZza8chUgLe0eWktBpQ_wGhzFpzeUupGlna3CA/viewform)
   - this link may not work if they change/update this. see the privacy policy for more info if that is the case and please feel free to submit a PR
+  - they do not limit it to CCPA-only. yay!
 - [Privacy Policy](https://www.mrss.com/privacy-policy/)
 
 # Online Marketing
@@ -472,8 +473,10 @@ address, and date of birth to opt out.
   Des Moines, Iowa 50309
   ```
 
-## [Merkle, Inc.](http://www.merkleinc.com/privacy)
-- **Opt-out by**: Covered by [DMA opt-out method](#direct-marketing-association-dma).
+## [Merkle, Inc.](http://www.merkleinc.com)
+- [Privacy Policy](https://www.merkle.com/privacy)
+- [CCPA Form](https://www.merkle.com/getting-know-your-privacy-rights/control-your-data)
+- Requires confirmation: **Opt-out by**: Covered by [DMA opt-out method](#direct-marketing-association-dma).
 
 ## [Reader’s Digest (and other Trusted Media brands)](http://tmbi.com/privacy-policy/)
 They distribute snail-mail ads, telemarketing calls, and sell
