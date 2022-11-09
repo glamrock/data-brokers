@@ -360,6 +360,10 @@ Republican and Conservative campaign voter and electoral data focus
 - [Privacy Policy](https://thedatatrust.com/privacy-policy/)
 - [CA/NV only do not sell](https://thedatatrust.com/do-not-sell-my-personal-information/)
 
+### [Grassroots Analytics](https://www.grassrootsanalytics.com) 
+- Privacy Policy: None found... :/
+- [CCPA form](https://www.grassrootsanalytics.com/ccpa)
+
 ### [L2 Data](https://l2-data.com/)
 They don't explicitly say they will only honor CCPA requests, so your mileage may vary.
 - [Opt Out](https://l2-data.com/opt-out)
