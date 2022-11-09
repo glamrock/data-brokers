@@ -273,9 +273,11 @@ To remove information, you must first make an account.
 
 ## Multi Purpose
 
-### [Acxiom Corporation (NSDQ:AXCM)](https://isapps.acxiom.com/optout/optout.aspx)
+### [Acxiom Corporation](https://isapps.acxiom.com)
 Scumbags.
-- **Opt-out by**: Website 🖥 , Phone ☎️
+- [Opt out info](https://isapps.acxiom.com/optout/optout.aspx)
+ - includes info for CCPA, non-US, and US Consumer
+- [CCPA Opt Out](https://www.acxiom.com/data-privacy-ethics/california-consumer-privacy-act/for-consumers/#pillar-section_5)
 - **Email**: consumeradvo@acxiom.com (inquiries)
 - **Phone**: 1-877-774-2094
 
@@ -283,6 +285,11 @@ Scumbags.
 - [Privacy Policy](https://belardiwong.com/privacy-policy/)
  - There's a bunch of different options in here that vary from 'see what we have' to 'delete my data' but it's ambiguous as to how much they'll honor for non CCPA/GDPR folk
  - [CCPA Delete](https://privacyportal.onetrust.com/webform/3d2d5e0c-bd98-46b8-906c-ede68a6f6a80/dd119353-8970-4dbf-ac1d-b6406173c7bb)
+
+### [Blackbaud](https://www.blackbaud.com/home)
+some political, some non-profit, but also some commercial data clients
+- [Privacy Policy](https://www.blackbaud.com/company/privacy-policy/north-america)
+- [CCPA Do Not Sell](https://www.blackbaud.com/company/california-consumer-privacy-act)
 
 ### [Deep Root Analytics](https://www.deeprootanalytics.com/)
 - [Privacy Policy](https://www.deeprootanalytics.com/privacy/)
