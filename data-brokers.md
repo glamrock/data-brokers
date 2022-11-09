@@ -285,40 +285,42 @@ Scumbags.
 - **Email**: consumeradvo@acxiom.com (inquiries)
 - **Phone**: 1-877-774-2094
 
-### [Epsilon Data Management, LLC](https://www.epsilon.com/en_US/for-consumer/marketing-data-summary-request.html)
-- **Opt-out by**: Email ✉️, Phone ☎️ , Mail 📬
-- **Email**:
-  - US: privacy@epsilon.com
-  - Asia: emeaprivacy@epsilon.com
-  - EU/EEA: apac-privacy@epsilon.com
-- **Phone**: 1-888-780-3869
-- **Mailing address**:
-  - North America
-   ```
-    Epsilon
-    Attention: Privacy Manager
-    2550 Crescent Drive,
-    Lafayette, CO 80026
-   ```
-  - EU & EEA region
-   ```
-    Epsilon International
-    Attention: Privacy
-    Teddington House
-    67 Broad Street
-    Teddington
-    Middlesex TW11 8QZ, UK
-   ```
-  - Asian-Pacific region
-   ```
-    Epsilon International-APAC
-    Attention: Privacy
-    Room 2601, 26/F
-    Hopewell Center
-    183 Queen’s Road East,
-    Wanchai,
-    Hong Kong
-   ```
+### [Epsilon Data Management, LLC](https://www.epsilon.com)
+- [Opt Out](https://legal.epsilon.com/dsr/)
+- Deprecated:
+ - **Opt-out by**: Email ✉️, Phone ☎️ , Mail 📬
+ - **Email**:
+   - US: privacy@epsilon.com
+   - Asia: emeaprivacy@epsilon.com
+   - EU/EEA: apac-privacy@epsilon.com
+ - **Phone**: 1-888-780-3869
+ - **Mailing address**:
+   - North America
+    ```
+     Epsilon
+     Attention: Privacy Manager
+     2550 Crescent Drive,
+     Lafayette, CO 80026
+    ```
+   - EU & EEA region
+    ```
+     Epsilon International
+     Attention: Privacy
+     Teddington House
+     67 Broad Street
+     Teddington
+     Middlesex TW11 8QZ, UK
+    ```
+   - Asian-Pacific region
+    ```
+     Epsilon International-APAC
+     Attention: Privacy
+     Room 2601, 26/F
+     Hopewell Center
+     183 Queen’s Road East,
+     Wanchai,
+     Hong Kong
+    ```
 
 ### [Harte-Hanks, Inc.](http://www.hartehanks.com/privacy) (NYSE:HHS)
 Ask how to have your personal information removed. For
