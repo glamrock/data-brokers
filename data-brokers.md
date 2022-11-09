@@ -192,14 +192,8 @@ live in to find your profile.
 - **Opt-out by**: Using Intelius opt-out method above.
 - **Privacy policy**: [link](http://www.peoplelookup.com/privacy.php)
 
-### [PeopleSearchNow.com](http://www.peoplesearchnow.com/Opt%20Out%20Request%20Form_PSN.docx)
-- **Opt-out by**: Mail 📬
-- **Mailing address**:
-  ```
-  Opt-Out/PeopleSearchNow.com
-  1821 Q Street
-  Sacramento, CA 95811
-  ```
+### [PeopleSearchNow.com](http://www.peoplesearchnow.com)
+- [Opt Out](https://www.peoplesearchnow.com/opt-out)
 
 ### [Phone Detective](https://www.phonedetective.com/PD.aspx?_act=OptOut)
 Quickly remove one’s phone number.
