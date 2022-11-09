@@ -326,6 +326,13 @@ advertising data, see Digital Advertising Alliance below.
 - **Opt-out by**: Email
 - **Email**: privacychoices@hartehanks.com
 
+### [i360](https://www.i-360.com/)
+Straddles political and commercial data use
+- [Privacy policy](https://www.i-360.com/privacy-policy/)
+- [CCPA info](https://www.i-360.com/ccpa/)
+- [Opt Out](https://privacyportal-cdn.onetrust.com/dsarwebform/77dff651-9f08-40cd-99fe-a7c487b2504d/7211c3b3-750a-4422-8ccb-3dab5b4ec36c.html)
+ - This asks for state/country specific, so they may not honor requests unless CCPA or GDPR.
+
 ### [Palantir](https://www.palantir.com/privacy-and-security/)
 Palantir does a LOT of data, from government spying to more ostensibly helpful things...
 - [Privacy policy](https://www.palantir.com/privacy-and-security/)
