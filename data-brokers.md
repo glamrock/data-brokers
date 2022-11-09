@@ -78,29 +78,214 @@ theft.
 
 # Data Brokers
 
-## [Palantir](https://www.palantir.com/privacy-and-security/)
-Palantir does a LOT of data, from government spying to more ostensibly helpful things...
-- [Privacy policy](https://www.palantir.com/privacy-and-security/)
-- [CCPA Form](https://www.palantir.com/privacy-and-security/data-request) you can also email, but you should look at the privacy policy for specific instructions.
+## People Finders
 
-## [Spokeo.com](http://www.spokeo.com/opt_out/new)
+### [Spokeo.com](http://www.spokeo.com/opt_out/new)
 Find your profiles, and submit them via the web form. They will
 be removed within a few days.
 - **Opt-out by**: Website 🖥
 
-## [PeekYou.com](http://www.peekyou.com/about/contact/optout/index.php)
+### [PeekYou.com](http://www.peekyou.com/about/contact/optout/index.php)
 Find your profiles, and submit the unique ID from them to have them removed.
 - **Opt-out by**: Website 🖥
 
-## [Pipl](https://pipl.com/help/remove/)
+### [Pipl](https://pipl.com/help/remove/)
 Refuses to allow opt-outs. Frequently incorrect info aggregated from across the
 internet.
 
-## [WhitePages.com](https://support.whitepages.com/hc/en-us/articles/203263794-Remove-my-listing-from-Whitepages-)
+### [WhitePages.com](https://support.whitepages.com/hc/en-us/articles/203263794-Remove-my-listing-from-Whitepages-)
 To remove information, you must first make an account.
 - **Opt-out by**: Website 🖥
 
-## [Epsilon Data Management, LLC](https://www.epsilon.com/en_US/for-consumer/marketing-data-summary-request.html)
+### [Intelius, Inc.](https://www.intelius.com/optout.php)
+Intelius runs a number of “people finder” and “background
+check” websites. This opt-out form will apply to all of them. You must
+provide an ID (faxed, scanned, mailed) to opt-out.
+- **Opt-out by**: Website 🖥, Fax 📠, Mail 📬
+- **Fax**: 1-425-974-6194
+- **Mailing address**:
+  ```
+  Intelius Consumer Affairs
+  P.O. Box 4145
+  Bellevue, WA 98009-4145
+  ```
+
+### [Ameridex](http://ameridex.com)
+Primarily public vital records (e.g. birth & death)
+- **Opt-out by**: Email ✉️, Mail 📬
+- **Email**: info@ameridex.com
+- **Mailing address**:
+  ```
+  Ameridex
+  PO Box 193061
+  San Francisco, CA
+  94119-3051
+  ```
+
+### [BeenVerified](http://www.beenverified.com/opt-out-instructions)
+Profile removed within 24 hours via the website.
+- **Opt-out by**: Website 🖥 , Email ✉️
+- **Email**: privacy@beenverified.com
+- [**Profile search**](https://www.beenverified.com/f/optout/search)
+
+### [People Smart (“Email Finder,” others)](https://www.peoplesmart.com/optout-policy)
+- **Opt-out by**: Website 🖥, Email ✉️, Mail 📬
+- **Notes**: People Smart offers an API to companies, so opting out here may
+remove data from other sites. Look up your profile with no City & State to
+get all results. Can take 3-14 days to have data removed.
+- [**Find profile**](https://www.peoplesmart.com/optout-go)
+- **Email**: privacy@peoplesmart.com
+- **Mailing address**:
+  ```
+  People Smart
+  Privacy Department
+  P.O. Box 391146
+  Omaha, NE 68139
+  ```
+
+### [InfoPay EmailTracer](http://www.emailtracer.com/tos.php)
+They ask for a lot of info to opt-out. Only provide them with
+what you can see in their database (full name, address, and photo ID).
+- **Opt-out by**: Fax 📠, Mail 📬
+- [**Find profile**](http://www.emailtracer.com)
+- **Fax**: 1-617-993-9946
+- **Mailing address**:
+  ```
+  EmailTracer Opt Out Compliance Dept.
+  P.O. Box 990043
+  Boston, MA 02199
+  ```
+
+### [LocatePLUS](https://locateplus.com/wp-content/uploads/LocatePLUS_Terms_and_Conditions2.pdf)
+States they can’t remove “third party” data. Primarily sells
+data to law enforcement and bill collectors. Their website heavily
+implies that they can give social security numbers and other identifying
+info to anyone with a business tax ID.
+- **Opt-out by**: Email ✉️, Mail 📬, Phone ☎️
+- **By mail**: Pay $25. Mail information requested.
+- **Email**: customerservice@locateplus.com
+- **Phone**: 1-888-746-3463
+- **Mailing address**:
+  ```
+  LocatePLUS
+  2 Corporation Way
+  Suite 150
+  Peabody, MA 01960
+  ```
+
+### [People Finders.ws](http://www.people-finders.ws/privacy.aspx?popup=true)
+They ask for a laundry list of personal info to process an
+opt-out. It’s a good idea to find records and include the links in your
+request.
+- **Opt-out by**: Mail 📬
+- **Mailing address**:
+  ```
+  Opt-Out/People-Finders.ws
+  1821 Q Street
+  Sacramento, CA 95811
+  ```
+
+### [PeopleFinders.com](http://www.peoplefinders.com/privacy.aspx)
+Look up information and click “That’s Me,” then click “Opt out
+my info” on the next page. You may need to check in cities you used to
+live in to find your profile.
+- **Opt-out by**: Website 🖥
+- [**Find profile**](http://www.peoplefinders.com/manage)
+
+### [Peoplelookup.com (Intelius), Spock.com](#intelius-inc)
+- **Opt-out by**: Using Intelius opt-out method above.
+- **Privacy policy**: [link](http://www.peoplelookup.com/privacy.php)
+
+### [PeopleSearchNow.com](http://www.peoplesearchnow.com/Opt%20Out%20Request%20Form_PSN.docx)
+- **Opt-out by**: Mail 📬
+- **Mailing address**:
+  ```
+  Opt-Out/PeopleSearchNow.com
+  1821 Q Street
+  Sacramento, CA 95811
+  ```
+
+### [Phone Detective](https://www.phonedetective.com/PD.aspx?_act=OptOut)
+Quickly remove one’s phone number.
+- **Opt-out by**: Website 🖥
+- **Email**: privacy@phonedetective.com
+
+### [PrivateEye](http://www.privateeye.com/Help/default.aspx?from=hys0359866156&piid=03#RemoveFromRecords)
+Because this is several services, they mistakenly (?) direct
+visitors to People Finders to find/remove info.
+- **Opt-out by**: Website 🖥, Mail 📬
+- [**Find/remove profile**](http://www.peoplefinders.com/manage)
+- **Mailing address**:
+  ```
+  Opt-Out/PrivateEye.com
+  1821 Q Street
+  Sacramento, CA 95811
+  ```
+
+### [PublicBackgroundChecks.com](http://www.publicbackgroundchecks.com/privacypolicy.aspx)
+They ask for a lot of info to opt-out. Only provide them with
+what you can see in their database (full name, address, and photo ID).
+- **Opt-out by**: Mail 📬
+- **Mailing address**:
+   Public Background Checks
+   305 5th Avenue S, Suite 201
+   La Crosse, WI 54601
+
+### [PublicRecordsNOW](http://www.publicrecordsnow.com/static/view/privacy)
+They ask for a lot of info to opt-out. Only provide them with
+what you can see in their database (full name, address, and photo ID).
+- **Opt-out by**: Mail 📬
+- **Mailing address**:
+  ```
+  Opt-Out/PublicRecordsNow
+  1821 Q Street
+  Sacramento, CA 95811
+  ```
+
+### [USA People Search](http://www.usa-people-search.com/help.aspx#p3)
+Search database, find yourself, then select that record for
+removal.
+- **Opt-out by**: Website 🖥
+- [**Find profile**](https://www.usa-people-search.com/manage/)
+
+### [US Search.com (Intelius)](http://www.ussearch.com/consumer/ala/landing.do?did=590)
+You must provide a copy of your ID and a letter with your name,
+address, and date of birth to opt out.
+- **Opt-out by**: Mail 📬, Fax 📠
+- **Fax**: 1-425-974-6194
+- **Mailing address**:
+  ```
+  Intelius Consumer Affairs
+  P.O. Box 4145
+  Bellevue, WA 98009-4145
+  ```
+
+### [Veromi.net](http://www.veromi.net/privacy.aspx) (Same company as people-finders.ws)
+They ask for a laundry list of personal info to process an
+opt-out. It’s a good idea to find records and include the links in your
+request.
+- **Opt-out by**: Mail 📬
+- **Mailing address**:
+  ```
+  Opt-Out/Veromi.net
+  1821 Q Street
+  Sacramento, CA 95811
+  ```
+
+### [Westlaw (Thompson Reuters Corp.)](http://static.legalsolutions.thomsonreuters.com/static/pdf/opt_out_form.pdf)
+They only allow opt-out for people who are in physical danger,
+are a judge or public official, or are a victim of identity theft.
+- **Opt-out by**:  Mail 📬
+
+## Multi Purpose
+
+### [Acxiom Corporation (NSDQ:AXCM)](https://isapps.acxiom.com/optout/optout.aspx)
+Scumbags.
+- **Opt-out by**: Website 🖥 , Phone ☎️
+- **Email**: consumeradvo@acxiom.com (inquiries)
+- **Phone**: 1-877-774-2094
+
+### [Epsilon Data Management, LLC](https://www.epsilon.com/en_US/for-consumer/marketing-data-summary-request.html)
 - **Opt-out by**: Email ✉️, Phone ☎️ , Mail 📬
 - **Email**:
   - US: privacy@epsilon.com
@@ -135,203 +320,35 @@ To remove information, you must first make an account.
     Hong Kong
    ```
 
-## [Acxiom Corporation (NSDQ:AXCM)](https://isapps.acxiom.com/optout/optout.aspx)
-Scumbags.
-- **Opt-out by**: Website 🖥 , Phone ☎️
-- **Email**: consumeradvo@acxiom.com (inquiries)
-- **Phone**: 1-877-774-2094
-
-## [Intelius, Inc.](https://www.intelius.com/optout.php)
-Intelius runs a number of “people finder” and “background
-check” websites. This opt-out form will apply to all of them. You must
-provide an ID (faxed, scanned, mailed) to opt-out.
-- **Opt-out by**: Website 🖥, Fax 📠, Mail 📬
-- **Fax**: 1-425-974-6194
-- **Mailing address**:
-  ```
-  Intelius Consumer Affairs
-  P.O. Box 4145
-  Bellevue, WA 98009-4145
-  ```
-
-## [Ameridex](http://ameridex.com)
-Primarily public vital records (e.g. birth & death)
-- **Opt-out by**: Email ✉️, Mail 📬
-- **Email**: info@ameridex.com
-- **Mailing address**:
-  ```
-  Ameridex
-  PO Box 193061
-  San Francisco, CA
-  94119-3051
-  ```
-
-## [BeenVerified](http://www.beenverified.com/opt-out-instructions)
-Profile removed within 24 hours via the website.
-- **Opt-out by**: Website 🖥 , Email ✉️
-- **Email**: privacy@beenverified.com
-- [**Profile search**](https://www.beenverified.com/f/optout/search)
-
-## [Harte-Hanks, Inc.](http://www.hartehanks.com/privacy) (NYSE:HHS)
+### [Harte-Hanks, Inc.](http://www.hartehanks.com/privacy) (NYSE:HHS)
 Ask how to have your personal information removed. For
 advertising data, see Digital Advertising Alliance below.
 - **Opt-out by**: Email
 - **Email**: privacychoices@hartehanks.com
 
-## [People Smart (“Email Finder,” others)](https://www.peoplesmart.com/optout-policy)
-- **Opt-out by**: Website 🖥, Email ✉️, Mail 📬
-- **Notes**: People Smart offers an API to companies, so opting out here may
-remove data from other sites. Look up your profile with no City & State to
-get all results. Can take 3-14 days to have data removed.
-- [**Find profile**](https://www.peoplesmart.com/optout-go)
-- **Email**: privacy@peoplesmart.com
-- **Mailing address**:
-  ```
-  People Smart
-  Privacy Department
-  P.O. Box 391146
-  Omaha, NE 68139
-  ```
+### [Palantir](https://www.palantir.com/privacy-and-security/)
+Palantir does a LOT of data, from government spying to more ostensibly helpful things...
+- [Privacy policy](https://www.palantir.com/privacy-and-security/)
+- [CCPA Form](https://www.palantir.com/privacy-and-security/data-request) you can also email, but you should look at the privacy policy for specific instructions.
 
-## [InfoPay EmailTracer](http://www.emailtracer.com/tos.php)
-They ask for a lot of info to opt-out. Only provide them with
-what you can see in their database (full name, address, and photo ID).
-- **Opt-out by**: Fax 📠, Mail 📬
-- [**Find profile**](http://www.emailtracer.com)
-- **Fax**: 1-617-993-9946
-- **Mailing address**:
-  ```
-  EmailTracer Opt Out Compliance Dept.
-  P.O. Box 990043
-  Boston, MA 02199
-  ```
-
-## [LocatePLUS](https://locateplus.com/wp-content/uploads/LocatePLUS_Terms_and_Conditions2.pdf)
-States they can’t remove “third party” data. Primarily sells
-data to law enforcement and bill collectors. Their website heavily
-implies that they can give social security numbers and other identifying
-info to anyone with a business tax ID.
-- **Opt-out by**: Email ✉️, Mail 📬, Phone ☎️
-- **By mail**: Pay $25. Mail information requested.
-- **Email**: customerservice@locateplus.com
-- **Phone**: 1-888-746-3463
-- **Mailing address**:
-  ```
-  LocatePLUS
-  2 Corporation Way
-  Suite 150
-  Peabody, MA 01960
-  ```
-
-## [People Finders.ws](http://www.people-finders.ws/privacy.aspx?popup=true)
-They ask for a laundry list of personal info to process an
-opt-out. It’s a good idea to find records and include the links in your
-request.
-- **Opt-out by**: Mail 📬
-- **Mailing address**:
-  ```
-  Opt-Out/People-Finders.ws
-  1821 Q Street
-  Sacramento, CA 95811
-  ```
-
-## [PeopleFinders.com](http://www.peoplefinders.com/privacy.aspx)
-Look up information and click “That’s Me,” then click “Opt out
-my info” on the next page. You may need to check in cities you used to
-live in to find your profile.
-- **Opt-out by**: Website 🖥
-- [**Find profile**](http://www.peoplefinders.com/manage)
-
-## [Peoplelookup.com (Intelius), Spock.com](#intelius-inc)
-- **Opt-out by**: Using Intelius opt-out method above.
-- **Privacy policy**: [link](http://www.peoplelookup.com/privacy.php)
-
-## [PeopleSearchNow.com](http://www.peoplesearchnow.com/Opt%20Out%20Request%20Form_PSN.docx)
-- **Opt-out by**: Mail 📬
-- **Mailing address**:
-  ```
-  Opt-Out/PeopleSearchNow.com
-  1821 Q Street
-  Sacramento, CA 95811
-  ```
-
-## [Phone Detective](https://www.phonedetective.com/PD.aspx?_act=OptOut)
-Quickly remove one’s phone number.
-- **Opt-out by**: Website 🖥
-- **Email**: privacy@phonedetective.com
-
-## [PrivateEye](http://www.privateeye.com/Help/default.aspx?from=hys0359866156&piid=03#RemoveFromRecords)
-Because this is several services, they mistakenly (?) direct
-visitors to People Finders to find/remove info.
-- **Opt-out by**: Website 🖥, Mail 📬
-- [**Find/remove profile**](http://www.peoplefinders.com/manage)
-- **Mailing address**:
-  ```
-  Opt-Out/PrivateEye.com
-  1821 Q Street
-  Sacramento, CA 95811
-  ```
-
-## [PublicBackgroundChecks.com](http://www.publicbackgroundchecks.com/privacypolicy.aspx)
-They ask for a lot of info to opt-out. Only provide them with
-what you can see in their database (full name, address, and photo ID).
-- **Opt-out by**: Mail 📬
-- **Mailing address**:
-   Public Background Checks
-   305 5th Avenue S, Suite 201
-   La Crosse, WI 54601
-
-## [PublicRecordsNOW](http://www.publicrecordsnow.com/static/view/privacy)
-They ask for a lot of info to opt-out. Only provide them with
-what you can see in their database (full name, address, and photo ID).
-- **Opt-out by**: Mail 📬
-- **Mailing address**:
-  ```
-  Opt-Out/PublicRecordsNow
-  1821 Q Street
-  Sacramento, CA 95811
-  ```
-
-## [USA People Search](http://www.usa-people-search.com/help.aspx#p3)
-Search database, find yourself, then select that record for
-removal.
-- **Opt-out by**: Website 🖥
-- [**Find profile**](https://www.usa-people-search.com/manage/)
-
-## [US Search.com (Intelius)](http://www.ussearch.com/consumer/ala/landing.do?did=590)
-You must provide a copy of your ID and a letter with your name,
-address, and date of birth to opt out.
-- **Opt-out by**: Mail 📬, Fax 📠
-- **Fax**: 1-425-974-6194
-- **Mailing address**:
-  ```
-  Intelius Consumer Affairs
-  P.O. Box 4145
-  Bellevue, WA 98009-4145
-  ```
-
-## [Veromi.net](http://www.veromi.net/privacy.aspx) (Same company as people-finders.ws)
-They ask for a laundry list of personal info to process an
-opt-out. It’s a good idea to find records and include the links in your
-request.
-- **Opt-out by**: Mail 📬
-- **Mailing address**:
-  ```
-  Opt-Out/Veromi.net
-  1821 Q Street
-  Sacramento, CA 95811
-  ```
-
-## [Westlaw (Thompson Reuters Corp.)](http://static.legalsolutions.thomsonreuters.com/static/pdf/opt_out_form.pdf)
-They only allow opt-out for people who are in physical danger,
-are a judge or public official, or are a victim of identity theft.
-- **Opt-out by**:  Mail 📬
-
-## [ZABA Inc.](http://www.zabasearch.com/privacy.php)
+### [ZABA Inc.](http://www.zabasearch.com/privacy.php)
 - **Opt-out by**: Fax 📠
 - **Notes**: Include a copy of your ID with your request.
 - **Fax**: 1-425-974-6194
 
+## Political Campaigns
+
+### [L2 Data](https://l2-data.com/)
+They don't explicitly say they will only honor CCPA requests, so your mileage may vary.
+- [Opt Out](https://l2-data.com/opt-out)
+- [CCPA Form](https://l2-data.com/california-privacy-rights-for-california-residents-only/)
+- [Privacy Policy](https://l2-data.com/l2-privacy-policy/)
+
+### [M+R](https://www.mrss.com/)
+Possible more altruistic, but still sells data.
+- [CCPA opt out](https://docs.google.com/forms/d/e/1FAIpQLSefr7ccty1bMZza8chUgLe0eWktBpQ_wGhzFpzeUupGlna3CA/viewform)
+  - this link may not work if they change/update this. see the privacy policy for more info if that is the case and please feel free to submit a PR
+- [Privacy Policy](https://www.mrss.com/privacy-policy/)
 
 # Online Marketing
 
