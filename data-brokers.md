@@ -394,6 +394,10 @@ Possible more altruistic, but still sells data.
   - they do not limit it to CCPA-only. yay!
 - [Privacy Policy](https://www.mrss.com/privacy-policy/)
 
+### [Target Smart](https://targetsmart.com/)
+- [Privacy Policy](https://privacy.targetsmart.com/privacy-policy)
+- [CA/NV Do Not Sell](https://privacy.targetsmart.com/do-not-sell-my-personal-information)
+
 # Online Marketing
 
 Digital marketing firms also conduct monitoring and correlation of user
