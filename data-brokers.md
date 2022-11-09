@@ -355,6 +355,11 @@ Explicity mentions CCPA and Nevada in the delete options.
 - [Privacy Policy](https://www.aristotle.com/privacy/)
 - [CA/NV Do Not Sell](https://www.aristotle.com/privacy/do-not-sell-my-personal-info/)
 
+### [The Data Trust](https://thedatatrust.com/)
+Republican and Conservative campaign voter and electoral data focus
+- [Privacy Policy](https://thedatatrust.com/privacy-policy/)
+- [CA/NV only do not sell](https://thedatatrust.com/do-not-sell-my-personal-information/)
+
 ### [L2 Data](https://l2-data.com/)
 They don't explicitly say they will only honor CCPA requests, so your mileage may vary.
 - [Opt Out](https://l2-data.com/opt-out)
