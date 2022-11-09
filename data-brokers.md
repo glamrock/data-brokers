@@ -93,10 +93,6 @@ Find your profiles, and submit the unique ID from them to have them removed.
 Refuses to allow opt-outs. Frequently incorrect info aggregated from across the
 internet.
 
-### [WhitePages.com](https://support.whitepages.com/hc/en-us/articles/203263794-Remove-my-listing-from-Whitepages-)
-To remove information, you must first make an account.
-- **Opt-out by**: Website 🖥
-
 ### [Intelius, Inc.](https://www.intelius.com/optout.php)
 Intelius runs a number of “people finder” and “background
 check” websites. This opt-out form will apply to all of them. You must
@@ -276,6 +272,10 @@ request.
 They only allow opt-out for people who are in physical danger,
 are a judge or public official, or are a victim of identity theft.
 - **Opt-out by**:  Mail 📬
+
+### [WhitePages.com](https://support.whitepages.com)
+To remove information, you must first make an account.
+- [Opt out](https://support.whitepages.com/hc/en-us/articles/115010106908-How-do-I-edit-or-remove-a-personal-listing-)
 
 ## Multi Purpose
 
